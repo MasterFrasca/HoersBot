@@ -1,0 +1,8 @@
+{
+“name”: “HoersBot”,
+“version”: “1.0.0”,
+“description”: “MLP Trading Card Game Bot”,
+“main”: “bot.js”,
+“author”: “MasterFrasca”,
+“dependencies”: {}
+}
